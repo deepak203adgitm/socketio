@@ -25,9 +25,9 @@ padding-top: 0px;
  
 display: flex;
  
-height: 85%;
+height: 70%;
  
-width: 73%;
+width: 85%;
  
 border-radius: 153px;
  
@@ -38,7 +38,7 @@ border-radius: 153px;
  
 height: 100%;
  
-width: 28%;
+width: 35%;
  
 display: flex;
  
@@ -71,7 +71,7 @@ width: 70%;
  
 background: #1b1b1b;
  
-width: 71%;
+width: 60%;
  
 ound: teal; */
  
@@ -211,7 +211,8 @@ border-radius: 0px 21px 21px 0px;
 
 .user-image img {
         height: 100%;
-    width: 95%;
+        
+    width: 78%;
     border-radius: 100px;
 
 }
